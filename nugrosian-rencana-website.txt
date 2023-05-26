@@ -5,3 +5,4 @@ Rencana Website Nugrosian
   * to do list mengenai jadwal makan & intermittent fasting
 - membuat website portofolio
 - membuat website kulineran
+- membuat website e-commerch
