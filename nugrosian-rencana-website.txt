@@ -1,5 +1,7 @@
 Rencana Website Nugrosian
 
 - membuat website to do list
+  * to do list mengenai aktivitas sehari-hari
+  * to do list mengenai jadwal makan & intermittent fasting
 - membuat website portofolio
 - membuat website kulineran
