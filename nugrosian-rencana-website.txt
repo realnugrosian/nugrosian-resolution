@@ -9,3 +9,4 @@ Rencana Website Nugrosian
   * kuliran asli suroboyo
 - membuat website e-commerch
 - membuat website travelling
+  * menggunakan vueJS
