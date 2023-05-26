@@ -3,8 +3,10 @@ Rencana Website Nugrosian
 - membuat website to do list
   * to do list mengenai aktivitas sehari-hari
   * to do list mengenai jadwal makan & intermittent fasting
-  ^ menggunakan javascript
-  ^ menggunakan tailwind
+    - kapan harus puasa dan kapan harus makan
 - membuat website portofolio
+- membuat website kulineran
+  * kuliran asli suroboyo
 - membuat website e-commerch
- ^ menggunakan laravel
+- membuat website travelling
+  * menggunakan vueJS
